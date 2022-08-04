@@ -1,0 +1,9 @@
+name: "lydia-website"
+output_dir: "."
+navbar:
+  title: "Lydia's Website" #Name of site 
+  left:
+    - text: "Home" #text displayed on menu
+      href: index.html #file the menu item links to
+    - text: "About Me"
+      href: about.html
